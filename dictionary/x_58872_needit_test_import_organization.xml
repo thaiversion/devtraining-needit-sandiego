@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="test import organization" max_length="40" name="x_58872_needit_test_import_organization" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field1" label="Field1" max_length="40" name="u_field1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field10" label="Field10" max_length="40" name="u_field10" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field11" label="Field11" max_length="40" name="u_field11" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field12" label="Field12" max_length="40" name="u_field12" type="string"/>
+        <element attributes="import_attribute_name=Field13" label="Field13" max_length="40" name="u_field13" type="integer"/>
+        <element attributes="import_attribute_name=Field14" label="Field14" max_length="40" name="u_field14" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field15" label="Field15" max_length="40" name="u_field15" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field16" label="Field16" max_length="40" name="u_field16" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field17" label="Field17" max_length="40" name="u_field17" type="string"/>
+        <element attributes="import_attribute_name=Field2" label="Field2" max_length="40" name="u_field2" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field3" label="Field3" max_length="47" name="u_field3" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field4" label="Field4" max_length="47" name="u_field4" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field5" label="Field5" max_length="40" name="u_field5" type="string"/>
+        <element attributes="import_attribute_name=Field6" label="Field6" max_length="40" name="u_field6" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field7" label="Field7" max_length="40" name="u_field7" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field8" label="Field8" max_length="40" name="u_field8" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field9" label="Field9" max_length="40" name="u_field9" type="string"/>
+    </element>
+</database>
